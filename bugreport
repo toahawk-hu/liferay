@@ -1,0 +1,10 @@
+Navigálj az oldalra: https://forms.liferay.com/web/forms/shared/-/form/122548
+Válts portugál nyelvre.
+BUG: jelenleg portugál nyelven az "Let's party rock.' és az "Indicates Required Fields" angolul jelenik meg
+Portugál nyelv esetén a sikeres elküldés után a köszönő üzenet angolul jelenik meg
+
+Válts angol nyelvre.
+BUG:az angol nyelvi felületen az "This is a Liferay Forms" nyelvtanilag hibás
+BUG: a dátum mezőbe be lehet írni "02/29/2022"-t és ilyenkor nem a megfelelő hibaüzenet jön. pl 'Invalid date"-nek kellene, nem "This field is required."-nek
+BUG: a "Why did you join the testing area?" szabad szavas text areába elfogad 1 betűt is válasznak
+BUG a dátum kiválasztása után nem tűnik el a dátumválasztó automatikusan
